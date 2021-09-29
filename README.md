@@ -1,6 +1,8 @@
 #To see this live visit:
 [https://optimistic-chandrasekhar-94aee8.netlify.app/]
 
+Created by Chase-Quinn
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
